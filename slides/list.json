@@ -2,18 +2,24 @@
     "lecture-title.md",
     "lecture-overview.md",
     [
-      "vis-categories.md",
-      "vis-category-static.md",
-      "vis-category-dynamic.md",
-      "vis-category-interactive.md"
+        "vis-categories.md",
+        "vis-category-static.md",
+        "vis-category-dynamic.md",
+        "vis-category-interactive.md"
     ],
     [
-      "vis-distinguishing-types.md",
-      "vis-type-abstract.md",
-      "vis-type-model-based.md"
+        "vis-distinguishing-types.md",
+        "vis-type-abstract.md",
+        "vis-type-model-based.md",
+        "spatial-representation.md"
     ],
     "vis-areas.md",
-    "spatial-representation.md",
+    "vis-area-information.md",
+    "vis-area-knowledge.md",
+    "vis-area-educational.md",
+    "vis-area-product.md",
+    "vis-area-scientific.md",
+    "vis-area-geographic.md",
     "resources-00.md",
     "resources-01.md",
     "get-slides.md",
