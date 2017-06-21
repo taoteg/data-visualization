@@ -1,8 +1,19 @@
 [
     "lecture-title.md",
     "lecture-overview.md",
-    "vis-distinguishing-types.md",
-    "vis-types.md",
+    [
+      "vis-categories.md",
+      "vis-category-static.md",
+      "vis-category-dynamic.md",
+      "vis-category-interactive.md"
+    ],
+    [
+      "vis-distinguishing-types.md",
+      "vis-type-abstract.md",
+      "vis-type-model-based.md"
+    ],
+    "vis-areas.md",
+    "spatial-representation.md",
     "resources-00.md",
     "resources-01.md",
     "get-slides.md",
