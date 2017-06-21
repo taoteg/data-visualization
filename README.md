@@ -2,24 +2,13 @@
 
 ## Abstract
 
-A presentation on general principles and practices common to data science including:
+A presentation on general principles and practices in data, info and geospatial visualization including:
 
-* Data lifecycles
-* Data management
-* Data mining
-* Data pipelines
-* ETL workflows
-* Data analytics & analysis  [pending]
-* Data processing (CLI, scripts)  [pending]
-* Data manipulation (with SQL DDL & DML)  [pending]
-* OLDB, OLTP, OLAP, Data Warehouses  [pending]
-* Big data  [pending]
-* Machine learning  [pending]
-* Related resources  [pending]
+*
 
 ### Get the Slides
 
-Get slides here: https://github.com/jgentle/data-manipulation
+Get slides here: https://github.com/jgentle/data-visualization
 
 Clone or download as preferred.
 
@@ -88,10 +77,12 @@ The presentation can be converted to print ready format by running it as usual t
 
 ### Presentation History
 
-  2017.06.22 Texas Advanced Computing Center Summer Institute - Data Manipulation (ETL) for Info Visualization.
+  2017.06.22 Texas Advanced Computing Center Summer Institute - Visualizing and Interacting with Data - Seminar: Geospatial Visualization
 
 ### Additional Notes
 
 This slide deck is a work-in-progress and will continue to be updated as new content is added or old content is updated.
 
 If you want to create a similar presentation for yourself, you can get the revealJS project code here: https://github.com/hakimel/reveal.js
+
+There is also a yeoman generator for rapid presentation development found here: https://github.com/slara/generator-reveal
