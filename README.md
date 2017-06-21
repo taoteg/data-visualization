@@ -94,7 +94,7 @@ The presentation can be converted to print ready format by running it as usual t
 
 ### Presentation History
 
-  2017.06.22 Texas Advanced Computing Center Summer Institute - Visualizing and Interacting with Data - Seminar: Geospatial Visualization
+  2017.06.22 Texas Advanced Computing Center - Summer Institute 2017 - Visualizing and Interacting with Data - Seminar: Geospatial Visualization
 
 ### Additional Notes
 
