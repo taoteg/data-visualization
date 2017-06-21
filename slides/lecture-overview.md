@@ -2,10 +2,11 @@
 
 _**Visualization**_ is the representation of an object, situation, or set of information as a chart or other image.
 
-_**Data Visualization**_ is the presentation of data in a visualization format.
+Visualization has applications in science, education, engineering, interactive multimedia, medicine, etc. Typical of a visualization application is the field of computer graphics.
 
-_**Information Visualization**_ is the study of visual representations of abstract data to reinforce human cognition.
+**The invention of computer graphics may be the most important development in visualization since the invention of central perspective in the Renaissance period.**
 
-_**Scientific Visualization**_ is primarily concerned with the visualization of three-dimensional phenomena (architectural, meteorological, medical, biological, etc.), where the emphasis is on realistic renderings of volumes, surfaces, illumination sources, and so forth, perhaps with a dynamic (time) component. The purpose of scientific visualization is to graphically illustrate scientific data to enable scientists to understand, illustrate, and glean insight from their data.
-
-_**Geographic Visualization**_ (a.k.a. Geovisualization) refers to a set of tools and techniques supporting the analysis of geospatial data through the use of interactive visualization. Geovisualization emphasizes knowledge construction over knowledge storage or information transmission by communicating geospatial information in ways that (when combined with human understanding) allow for data exploration and decision-making processes.
+Visualizations are broadly classified into three basic categories:
+* Static - display information in an unchanging format and requires no user input.
+* Dynamic - display information in a changing state (e.g. motion graphics) but requires no user input.
+* Interactive - displays information in a static or dynamic state but will change based on user input.
