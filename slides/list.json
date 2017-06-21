@@ -13,7 +13,10 @@
         "vis-type-model-based.md",
         "spatial-representation.md"
     ],
-    "vis-areas.md",
+    [
+      "vis-areas.md",
+      "vis-areas-table.md"
+    ],
     [
         "vis-area-information.md",
         "vis-area-information-example-1.md",
@@ -22,6 +25,15 @@
         "vis-area-information-workflows.md",
         "vis-area-information-tools.md",
         "vis-area-information-challenges.md"
+    ],
+    [
+        "vis-area-data.md",
+        "vis-area-data-example-1.md",
+        "vis-area-data-example-2.md",
+        "vis-area-data-example-3.md",
+        "vis-area-data-workflows.md",
+        "vis-area-data-tools.md",
+        "vis-area-data-challenges.md"
     ],
     [
         "vis-area-knowledge.md",
@@ -71,12 +83,12 @@
     "vis-general-workflows.md",
     "vis-general-tools.md",
     [
-      "resources-00.md",
-      "resources-01.md"
+        "resources-00.md",
+        "resources-01.md"
     ],
     [
-      "get-slides.md",
-      "print-ready-version.md"
+        "get-slides.md",
+        "print-ready-version.md"
     ],
     "thank-you.md"
 ]
