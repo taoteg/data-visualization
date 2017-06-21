@@ -16,6 +16,7 @@ A presentation on general principles and practices in data visualization includi
   * Educational Visualization
   * Product Visualization
   * Scientific Visualization
+  * Geographic Visualization
 
 ### Get the Slides
 
