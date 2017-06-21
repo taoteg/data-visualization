@@ -15,6 +15,4 @@ _**Area**_ | _**Type (Spatial Representation)**_ | _**Categories (Static, Dynami
 **Scientific Visualization** | Model-based | Any | Optional
 **Geographic Visualization** | Model-based (GIS) | Any | Yes*
 
-*Geographic visualization us __usually__ interactive, but not always.*
-
-_usually_
+*Geographic visualization is usually interactive, but not always.*

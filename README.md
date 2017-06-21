@@ -4,9 +4,18 @@
 
 A presentation on general principles and practices in data visualization including:
 
-* Vis Categories (Static vs Dynamic, Interactive)
-* Vis Types (Abstract, Model-based)
-* Vis Areas (Information Visualization, Knowledge Visualization, Educational Visualization, Product Visualization, Scientific Visualization,)
+* Vis Categories
+  * Static vs Dynamic
+  * Interactive
+* Vis Types
+  * Abstract
+  * Model-based
+* Vis Areas
+  * Information Visualization
+  * Knowledge Visualization
+  * Educational Visualization
+  * Product Visualization
+  * Scientific Visualization
 
 ### Get the Slides
 
@@ -59,6 +68,7 @@ Navigate the slide show with these controls:
   * escape key to see all slides (then arrows to nav to a specific slide)
     * These configs can be overridden if desired.
   * use s to enter speaker view mode in another window.
+  * use b to pause and blackout the presentation.
   * select "View > Enter Full Screen" in your browser menu for the best fullscreen performance.
   * you can also use f to enter fullscreen, esc to exit fullscreen - but there is a bug in the background color styles that may bork the presentation design.
 
