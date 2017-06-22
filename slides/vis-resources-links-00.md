@@ -1,7 +1,5 @@
 ##  Resources
 
-<!-- [google](https://www.google.com)--><!-- .element: target="_blank" -->
-
 [Print vs. Web, Static vs. Interactive](https://infoactive.co/data-design/ch16.html)<!-- .element: target="_blank" -->
 
 [Minard's graphic of Napolean in Russia](https://www.edwardtufte.com/tufte/minard)<!-- .element: target="_blank" -->

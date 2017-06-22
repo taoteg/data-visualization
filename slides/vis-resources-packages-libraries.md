@@ -7,6 +7,7 @@
 * [ggplot](http://ggplot.yhathq.com/)<!-- .element: target="_blank" -->
 * [bokeh](http://bokeh.pydata.org/en/latest/)<!-- .element: target="_blank" -->
 * [plotly](https://plot.ly/python/)<!-- .element: target="_blank" -->
+* [vispy](http://vispy.org/)<!-- .element: target="_blank" -->
 </div><!-- .element: class="resource-section" -->
 
 #### R Packages

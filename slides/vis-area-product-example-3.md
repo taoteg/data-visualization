@@ -1,3 +1,3 @@
-##  vis area product example 3
+##  Product Visualization (Interactive)
 
-This is a new Markdown slide
+[Car Visualizer](http://carvisualizer.plus360degrees.com/threejs/)<!-- .element: target="_blank" -->

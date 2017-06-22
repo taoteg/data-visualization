@@ -58,8 +58,8 @@
         "vis-area-geographic-example-1.md",
         "vis-area-geographic-example-2.md",
         "vis-area-geographic-example-3.md",
-        "vis-area-geographic-workflow.md",
         "vis-area-geographic-challenges.md",
+        "vis-area-geographic-explore.md",
         "vis-area-geographic-exercise.md"
     ],
     "vis-general-workflows.md",
@@ -70,6 +70,8 @@
         "vis-resources-tools-gis.md",
         "vis-resources-tools-gis-web.md",
         "vis-resources-data-sources.md",
+        "vis-resources-data-sources-02.md",
+        "vis-resources-data-sources-03.md",
         "vis-resources-links-00.md",
         "vis-resources-links-01.md",
         "attributions.md"
