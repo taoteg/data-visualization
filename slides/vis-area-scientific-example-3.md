@@ -1,3 +1,3 @@
-##  vis area scientific example 3
+##  Scientific Visualization (Interacive)
 
-This is a new Markdown slide
+![](/images/vis/brain-3d-rotate.gif) <!-- .element width="45%" -->

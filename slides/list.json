@@ -14,81 +14,69 @@
         "spatial-representation.md"
     ],
     [
-      "vis-areas.md",
-      "vis-areas-table.md"
-    ],
-    [
-        "vis-area-information.md",
-        "vis-area-information-example-1.md",
-        "vis-area-information-example-2.md",
-        "vis-area-information-example-3.md",
-        "vis-area-information-workflows.md",
-        "vis-area-information-tools.md",
-        "vis-area-information-challenges.md"
+        "vis-areas.md",
+        "vis-areas-table.md"
     ],
     [
         "vis-area-data.md",
         "vis-area-data-example-1.md",
         "vis-area-data-example-2.md",
-        "vis-area-data-example-3.md",
-        "vis-area-data-workflows.md",
-        "vis-area-data-tools.md",
-        "vis-area-data-challenges.md"
+        "vis-area-data-example-3.md"
+    ],
+    [
+        "vis-area-information.md",
+        "vis-area-information-example-1.md",
+        "vis-area-information-example-2.md",
+        "vis-area-information-example-3.md"
     ],
     [
         "vis-area-knowledge.md",
         "vis-area-knowledge-example-1.md",
         "vis-area-knowledge-example-2.md",
-        "vis-area-knowledge-example-3.md",
-        "vis-area-knowledge-workflows.md",
-        "vis-area-knowledge-tools.md",
-        "vis-area-knowledge-challenges.md"
+        "vis-area-knowledge-example-3.md"
     ],
     [
         "vis-area-educational.md",
         "vis-area-educational-example-1.md",
         "vis-area-educational-example-2.md",
-        "vis-area-educational-example-3.md",
-        "vis-area-educational-workflows.md",
-        "vis-area-educational-tools.md",
-        "vis-area-educational-challenges.md"
+        "vis-area-educational-example-3.md"
     ],
     [
         "vis-area-product.md",
         "vis-area-product-example-1.md",
         "vis-area-product-example-2.md",
-        "vis-area-product-example-3.md",
-        "vis-area-product-workflows.md",
-        "vis-area-product-tools.md",
-        "vis-area-product-challenges.md"
+        "vis-area-product-example-3.md"
     ],
     [
         "vis-area-scientific.md",
         "vis-area-scientific-example-1.md",
         "vis-area-scientific-example-2.md",
-        "vis-area-scientific-example-3.md",
-        "vis-area-scientific-workflows.md",
-        "vis-area-scientific-tools.md",
-        "vis-area-scientific-challenges.md"
+        "vis-area-scientific-example-3.md"
     ],
     [
         "vis-area-geographic.md",
         "vis-area-geographic-example-1.md",
         "vis-area-geographic-example-2.md",
         "vis-area-geographic-example-3.md",
-        "vis-area-geographic-workflows.md",
-        "vis-area-geographic-tools.md",
-        "vis-area-geographic-challenges.md"
+        "vis-area-geographic-workflow.md",
+        "vis-area-geographic-challenges.md",
+        "vis-area-geographic-exercise.md"
     ],
     "vis-general-workflows.md",
-    "vis-general-tools.md",
+    "vis-general-challenges.md",
     [
-        "resources-00.md",
-        "resources-01.md"
+        "vis-resources-packages-libraries.md",
+        "vis-resources-tools.md",
+        "vis-resources-tools-gis.md",
+        "vis-resources-tools-gis-web.md",
+        "vis-resources-data-sources.md",
+        "vis-resources-links-00.md",
+        "vis-resources-links-01.md",
+        "attributions.md"
     ],
+    "thank-you.md",
     [
         "get-slides.md",
         "print-ready-version.md"
-    ],
-    "thank-you.md"
+    ]
 ]

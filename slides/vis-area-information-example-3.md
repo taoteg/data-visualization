@@ -1,3 +1,5 @@
-##  vis area information example 3
+##  Information Visualization (Interactive)
 
-This is a new Markdown slide
+[The Depth of the Problem](http://apps.washingtonpost.com/g/page/world/the-depth-of-the-problem/931/)<!-- .element: target="_blank" -->
+
+[MVP Sports Franchises](http://mvp.columnfivemedia.com/)<!-- .element: target="_blank" -->

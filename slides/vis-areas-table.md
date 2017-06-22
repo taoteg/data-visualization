@@ -2,8 +2,8 @@
 
 _**Area**_ | _**Type (Spatial Representation)**_ | _**Categories (Static, Dynamic)**_ | _**Interactive**_
 ---|---|---|---
-**Information Visualization** | Abstract | Any | Optional
 **Data Visualization** | Any | Any | Optional
+**Information Visualization** | Any | Any | Optional
 **Knowledge Visualization** | Any | Any | Optional
 **Educational Visualization** | Any | Any | Optional
 **Product Visualization** | Model-based (usually) | Any | Optional

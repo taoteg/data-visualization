@@ -1,3 +1,3 @@
-##  vis area geographic example 2
+##  Geographic Visualization (Dynamic)
 
-This is a new Markdown slide
+![](/images/vis/wind-data-motion.gif) <!-- .element width="60%" -->

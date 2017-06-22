@@ -1,3 +1,3 @@
-##  vis area knowledge example 2
+##  Knowledge Visualization (Dynamic)
 
-This is a new Markdown slide
+[A day in the life: US Thanksgiving on Google Flights](http://googletrends.github.io/iframe-scaffolder/#/view?urls=Thanksgiving%202015%7Chttps:%252F%252Fgoogledataorg.cartodb.com%252Fu%252Fgoogledata%252Fviz%252Fbf595f4c-7381-11e5-9ec5-42010a14800c%252Fembed_map&active=0&sharing=1&autoplay=0&loop=1&layout=narrative&theme=red&title=A%20day%20in%20the%20life:%20US%20Thanksgiving%20on%20Google%20Flights&description=The%20day%20before%20Thanksgiving%202015%20shown%20in%20US%20domestic%20and%20international%20air%20travel%20booked%20with%20Google%20Flights)<!-- .element: target="_blank" -->

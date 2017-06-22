@@ -1,3 +1,5 @@
 ##  Interactive Visualization
 
-[Stacked to Grouped Bars Chart (external link)](http://bl.ocks.org/mbostock/3943967)<!-- .element: target="_blank" data-preview-link -->
+[Stream Graph (Mike Bostock)](https://bl.ocks.org/mbostock/4060954)<!-- .element: target="_blank" -->
+
+[Node Graph (Mike Bostock)](http://bl.ocks.org/mbostock/afecf1ce04644ad9036ca146d2084895)<!-- .element: target="_blank" -->

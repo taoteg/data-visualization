@@ -17,4 +17,4 @@ _**The content will look weird until you print preview... but it will print OKAY
 
 For convenience I have included the localhost link below.
 
-[Print Ready Version](http://localhost:9000/?print-pdf/)<!-- .element: target="_blank" data-preview-link -->
+[Print Ready Version](http://localhost:9000/?print-pdf/)<!-- .element: target="_blank" -->

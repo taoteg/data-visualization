@@ -1,3 +1,3 @@
-##  vis area information example 1
+##  Information Visualization (Static)
 
-This is a new Markdown slide
+![](/images/vis/Wikipedian_in_Residence_Infographic.jpg) <!-- .element width="35%" -->
