@@ -38,6 +38,7 @@ Follow these steps to run the slideshow:
 1) Install Bower.io (requires NodeJS):
     ```
     $ npm install -g bower
+    $ npm install -g grunt-cli
     ```
 
 1) Install all the node dependencies:
