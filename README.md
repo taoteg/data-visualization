@@ -1,5 +1,7 @@
 # Data Visualization
 
+The live slides: https://jgentle.github.io/data-visualization/
+
 ## Abstract
 
 A presentation on general principles and practices in data visualization including:
