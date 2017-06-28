@@ -6,4 +6,5 @@
 <span>
 A map of U.S. river flowlines based on the NHDPlusV2 geo-spatial, hydrologic framework dataset built by the US EPA Office of Water, assisted by the US Geological Survey.
 </span><!-- .element: class="caption" -->
+[link](https://github.com/mbostock/us-rivers)<!-- .element: target="_blank" -->
 </p><!-- .element: class="caption-wrapper" -->

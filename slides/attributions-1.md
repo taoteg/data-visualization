@@ -1,7 +1,6 @@
 ##  Attributions
 
 <!-- lecture-overview.md -->
-<!-- Duplicate per attribution -->
 <p>
 <span>
 **File:** Social Network Analysis Visualization.png | **Source:** Own work | **Author:** Martin Grandjean |
@@ -11,7 +10,6 @@
 </p><!-- .element: class="attribution-wrapper" -->
 
 <!-- vis-category-static.md -->
-<!-- Duplicate per attribution -->
 <p>
 <span>
 **File:** Minard.png | **Source:** see upload log | **Author:** Charles Minard (1781-1870) |
@@ -21,7 +19,6 @@
 </p><!-- .element: class="attribution-wrapper" -->
 
 <!-- vis-category-dynamic.md -->
-<!-- Duplicate per attribution -->
 <p>
 <span>
 **File:** chemical-reaction.gif | **Source:** TACC | **Author:** TACC |
@@ -31,7 +28,6 @@
 </p><!-- .element: class="attribution-wrapper" -->
 
 <!-- vis-type-abstract.md -->
-<!-- Duplicate per attribution -->
 <p>
 <span>
 **File:** LastGraph example.svg | **Source:** Own work | **Author:** Psychonaut |
@@ -41,7 +37,6 @@
 </p><!-- .element: class="attribution-wrapper" -->
 
 <!-- vis-type-model-based.md -->
-<!-- Duplicate per attribution -->
 <p>
 <span>
 **File:** DiffusionMRI glyphs.png | **Source:** Medical imaging software | **Author:** Tucanis |
@@ -51,7 +46,6 @@
 </p><!-- .element: class="attribution-wrapper" -->
 
 <!-- vis-area-data-example-1.md -->
-<!-- Duplicate per attribution -->
 <p>
 <span>
 **File:** Electromagnetic Radiation Spectrum Infographic.svg | **Source:** Own work | **Author:** Duarte Farrajota Ramos |
@@ -61,7 +55,6 @@
 </p><!-- .element: class="attribution-wrapper" -->
 
 <!-- vis-area-data-example-2.md -->
-<!-- Duplicate per attribution -->
 <p>
 <span>
 **File:** Astro 4D m45 cr anim.gif | **Source:** Own work | **Author:** Alexander Meleg |
@@ -71,7 +64,6 @@
 </p><!-- .element: class="attribution-wrapper" -->
 
 <!-- vis-area-information-example-1.md -->
-<!-- Duplicate per attribution -->
 <p>
 <span>
 **File:** Wikipedian in Residence Infographic.jpg | **Source:** The Children's Museum of Indianapolis | **Author:** The Children's Museum of Indianapolis |
@@ -80,25 +72,11 @@
 </span><!-- .element: class="attribution" -->
 </p><!-- .element: class="attribution-wrapper" -->
 
-<!-- vis-area-geographic-example-1.md -->
-<!-- Duplicate per attribution -->
+<!-- vis-area-knowledge-example-1.md -->
 <p>
 <span>
-**File:** U.S. Rivers | **Source:** Own work | **Author:** Mike Bostock |
-**Date:** May 17, 2013 | **Copyright:** Copyright (c) 2013-2017, Michael Bostock
-All rights reserved. |
-[link](https://github.com/mbostock/us-rivers)<!-- .element: target="_blank" -->
-</span><!-- .element: class="attribution" -->
-</p><!-- .element: class="attribution-wrapper" -->
-
-<!-- UNUSED -->
-<!--  -->
-<!-- Duplicate per attribution -->
-<!-- Desc: NASA projection from 1974 to 2060 of the impact of CFCs on the Ozone layer if they hadn't been banned. -->
-<p>
-<span>
-**File:** Future ozone layer concentrations.gif | **Source:** NASA | **Author:** NASA/Goddard Space Flight Center Scientific Visualization Studio |
-**Date:** 21 May 2009 | **Copyright:** Public Domain |
-[link](https://commons.wikimedia.org/wiki/File:Future_ozone_layer_concentrations.gif)<!-- .element: target="_blank" -->
+**File:** theyearinnews20141.png | **Source:** Echelon Insights | **Author:** Echelon Insights |
+**Date:** December 22, 2014 | **Copyright:** Copyright (c) Echelon Insights |
+[link](http://echeloninsights.tumblr.com/post/105911206078/theyearinnews-2014)<!-- .element: target="_blank" -->
 </span><!-- .element: class="attribution" -->
 </p><!-- .element: class="attribution-wrapper" -->

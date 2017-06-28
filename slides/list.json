@@ -51,12 +51,14 @@
         "vis-area-scientific.md",
         "vis-area-scientific-example-1.md",
         "vis-area-scientific-example-2.md",
+        "vis-area-scientific-example-2b.md",
         "vis-area-scientific-example-3.md"
     ],
     [
         "vis-area-geographic.md",
         "vis-area-geographic-example-1.md",
         "vis-area-geographic-example-2.md",
+        "vis-area-geographic-example-2b.md",
         "vis-area-geographic-example-3.md",
         "vis-area-geographic-challenges.md",
         "vis-area-geographic-explore.md",
@@ -74,7 +76,8 @@
         "vis-resources-data-sources-03.md",
         "vis-resources-links-00.md",
         "vis-resources-links-01.md",
-        "attributions.md"
+        "attributions-1.md",
+        "attributions-2.md"
     ],
     "thank-you.md",
     [
