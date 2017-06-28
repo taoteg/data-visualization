@@ -1,6 +1,6 @@
 ##  Data Visualization (Dynamic)
 
-![](/images/vis/Astro_4D_m45_cr_anim.gif) <!-- .element width="30%" -->
+![](resources/images/vis/Astro_4D_m45_cr_anim.gif) <!-- .element width="30%" -->
 
 <p>
 <span>

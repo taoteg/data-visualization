@@ -2,7 +2,7 @@
 
 _**Visualization**_ is the representation of an object, situation, or set of information as a chart or other image.
 
-![](/images/vis/Social_Network_Analysis_Visualization.png) <!-- .element width="40%" -->
+![](resources/images/vis/Social_Network_Analysis_Visualization.png) <!-- .element width="40%" -->
 
 <p>
   <span>Graph representing the metadata of thousands of archive documents, documenting the social network of hundreds of League of Nations personals</span><!-- .element: class="caption" -->

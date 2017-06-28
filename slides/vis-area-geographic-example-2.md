@@ -1,3 +1,3 @@
 ##  Geographic Visualization (Dynamic)
 
-![](/images/vis/wind-data-motion.gif) <!-- .element width="60%" -->
+![](resources/images/vis/wind-data-motion.gif) <!-- .element width="60%" -->
